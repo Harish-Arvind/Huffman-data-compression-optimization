@@ -23,7 +23,7 @@ Any additional libraries or dependencies
 
 # Installation
 Clone the repository:
-git clone https://github.com/Harish-Arvind/huffman-compression-data-optimization.git
+git clone https://github.com/Harish-Arvind/Huffman-data-compression-optimization.git
 
 Navigate to the project directory:
 cd huffman-optimization
