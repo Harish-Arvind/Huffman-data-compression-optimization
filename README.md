@@ -65,3 +65,9 @@ Read the compressed file, reconstruct the Huffman tree using the information sto
 Contributing
 Contributions to this project are welcome! If you find any bugs or want to enhance the project, feel free to create a pull request. Please follow the existing coding style and guidelines.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Harish-Arvind/Grapy-Theory-Scheduling/blob/main/Graph%20Theory%20Scheduling%20Project/LICENSE) file for details.
+
+
+
+
