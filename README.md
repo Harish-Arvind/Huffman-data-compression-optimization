@@ -1,8 +1,5 @@
 # Huffman-Data-Compression-Optimization
 
-Huffman Optimization Data Project
-Huffman Project
-
 # Overview
 This repository contains the code and documentation for the Huffman Data Optimization project completed as part of the University course.
 The project focuses on implementing the Huffman coding algorithm to compress and decompress data efficiently. Huffman coding is a widely used technique in data compression,
